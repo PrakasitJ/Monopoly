@@ -40,7 +40,7 @@ public class MGameWithUI {
         return playRound(n);
     }
 
-    public Player playRound(int n){
+    private Player playRound(int n){
         Player player = players.get(currentPlayerIndex);
         currentPlayerIndex++;
         return player;

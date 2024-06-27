@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cebef48b-494a-4cab-a139-c4ab298b7acd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/modelsForUI/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/modelsForUI/Die.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/modelsForUI/MGameWithUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/modelsForUI/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/modelsForUI/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/modelsForUI/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/prakasit/work/monopoly/images/Baltic Avenue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/prakasit/work/monopoly/images/CommunityChest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/prakasit/work/monopoly/images/Go.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/prakasit/work/monopoly/images/Mediterranean Avenue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/controllers/MonopolyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Die.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Die.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/MGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/MGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Piece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prakasit/work/monopoly/models/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/prakasit/work/monopoly/css/monopoly.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/prakasit/work/monopoly/css/monopoly.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/prakasit/work/monopoly/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/prakasit/work/monopoly/views/Monopoly.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/prakasit/work/monopoly/views/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719324479150</updated>
       <workItem from="1719324480194" duration="2398000" />
-      <workItem from="1719501535686" duration="16369000" />
+      <workItem from="1719501535686" duration="16809000" />
     </task>
     <servers />
   </component>
