@@ -1,0 +1,9 @@
+Pane {
+    -fx-background-color: gold;
+    -fx-border-color: black;
+}
+
+.round-curve {
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-radius: 10 10 10 10;
+}
