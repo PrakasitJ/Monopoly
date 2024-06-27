@@ -1,7 +1,7 @@
 // Nisit Code : 6510450585
 // Name : Prakasit Jaiharn
 
-package prakasit.work.monopoly.models;
+package prakasit.work.monopoly.modelsForUI;
 
 public class Square {
     private String name;

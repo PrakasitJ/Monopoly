@@ -1,7 +1,9 @@
+// Nisit Code : 6510450585
+// Name : Prakasit Jaiharn
+
 package prakasit.work.monopoly;
 
-import org.example.Models.MGame;
-import org.example.Models.Player;
+import prakasit.work.monopoly.models.MGame;
 
 public class Main {
     public static void main(String[] args) {
@@ -14,6 +16,6 @@ public class Main {
         mGame.addPlayer("Player6");
         mGame.addPlayer("Player7");
         mGame.addPlayer("Player8");
-        mGame.playGame();
+        mGame.playGame(50);
     }
 }

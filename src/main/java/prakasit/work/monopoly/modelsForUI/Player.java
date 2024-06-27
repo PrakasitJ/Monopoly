@@ -1,7 +1,7 @@
 // Nisit Code : 6510450585
 // Name : Prakasit Jaiharn
 
-package prakasit.work.monopoly.models;
+package prakasit.work.monopoly.modelsForUI;
 
 public class Player {
     private String name;
@@ -16,7 +16,7 @@ public class Player {
         this.piece = new Piece();
     }
 
-    public void  takeTurn(){
+    public Die[]  takeTurn(){
         int fvTot = 0;
         for(Die die : dice){
             die.roll();
@@ -28,6 +28,11 @@ public class Player {
         Square oldLoc = piece.getLocation();
         Square newLoc = board.getSquare(oldLoc, fvTot);
         piece.setLocation(newLoc);
+        return dice;
+    }
+
+    public String getName() {
+        return name;
     }
 
 }

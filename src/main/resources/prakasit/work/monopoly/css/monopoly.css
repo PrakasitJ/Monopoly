@@ -7,3 +7,8 @@ Pane {
     -fx-background-radius: 10 10 10 10;
     -fx-border-radius: 10 10 10 10;
 }
+
+.round-rectangle {
+    -fx-arc-height: 10;
+    -fx-arc-width: 10;
+}
